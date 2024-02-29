@@ -3,13 +3,13 @@
 ## Tech Stack
 ramzimalhas/maid-hazel is built on the following main stack:
 
-- [Vagrant](http://www.vagrantup.com/) – Virtual Machine Management
-- [Ruby](https://www.ruby-lang.org) – Languages
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Ruby](https://www.ruby-lang.org) – Languages
+- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - [RSpec](https://rspec.info/) – Testing Frameworks
 - [RuboCop](http://batsov.com/rubocop/) – Code Review
+- [Vagrant](http://www.vagrantup.com/) – Virtual Machine Management
 - [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
 
@@ -19,13 +19,13 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 ramzimalhas/maid-hazel is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/768/150px-Vagrant.png' alt='Vagrant'/> [Vagrant](http://www.vagrantup.com/) – Virtual Machine Management
-- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/2539/logo.png' alt='RSpec'/> [RSpec](https://rspec.info/) – Testing Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/2643/rubocop.png' alt='RuboCop'/> [RuboCop](http://batsov.com/rubocop/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/768/150px-Vagrant.png' alt='Vagrant'/> [Vagrant](http://www.vagrantup.com/) – Virtual Machine Management
 - <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
 
@@ -36,7 +36,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ramzimalhas/maid-hazel](https://github.com/ramzimalhas/maid-hazel)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|38<br/>Tools used|01/23/24 <br/>Report generated|
+|38<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -176,7 +176,7 @@ Full tech stack [here](/techstack.md)
 |[thor](https://rubygems.org/thor)|v1.2.1|03/29/23|Rock |MIT|N/A|
 |[timecop](https://rubygems.org/timecop)|v0.9.6|03/17/23|coaxial |MIT|N/A|
 |[xdg](https://rubygems.org/xdg)|v2.2.3|05/21/11|Benjamin Oakes |Apache-2.0|N/A|
-|[yard](https://rubygems.org/yard)|v0.9.11|03/18/23|coaxial |MIT|[CVE-2019-1020001](https://github.com/advisories/GHSA-xfhh-rx56-rxcr) (High)|
+|[yard](https://rubygems.org/yard)|v0.9.11|03/18/23|coaxial |MIT|[CVE-2019-1020001](https://github.com/advisories/GHSA-xfhh-rx56-rxcr) (High)<br/>[CVE-2024-27285](https://github.com/advisories/GHSA-8mq4-9jjh-9xrc) (Moderate)|
 
 <br/>
 <div align='center'>
